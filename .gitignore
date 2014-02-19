@@ -1,0 +1,14 @@
+/coverage/
+vendor/
+composer.lock
+composer.phar
+.DS_Store
+.idea/
+# Ignores
+\.DS_Store
+\.classpath
+\.project
+\.settings
+\.metadata/
+Servers/
+target/
